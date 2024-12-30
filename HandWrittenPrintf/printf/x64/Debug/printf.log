@@ -1,0 +1,8 @@
+﻿  printf.cpp
+C:\Users\Janek\source\repos\printf\printf\printf.cpp(32,10): warning C4129: "%": nierozpoznany znak sekwencji ucieczki
+C:\Users\Janek\source\repos\printf\printf\printf.cpp(33,13): warning C4129: "%": nierozpoznany znak sekwencji ucieczki
+C:\Users\Janek\source\repos\printf\printf\printf.cpp(33,13): warning C4476: „printf”: nieznany znak pola typu „/” w specyfikatorze formatu
+C:\Users\Janek\source\repos\printf\printf\printf.cpp(33,13): warning C4778: „printf”: niezakończony ciąg formatu „%”
+C:\Users\Janek\source\repos\printf\printf\printf.cpp(33,78): warning C4474: „printf”: przekazano za dużo argumentów dla ciągu formatowania
+C:\Users\Janek\source\repos\printf\printf\printf.cpp(33,78): message : symbole zastępcze i ich parametry oczekują 5 argumentów ze zmienną liczbą argumentów, ale podano następującą liczbę zmiennych argumentów: 6
+  printf.vcxproj -> C:\Users\Janek\source\repos\printf\x64\Debug\printf.exe
